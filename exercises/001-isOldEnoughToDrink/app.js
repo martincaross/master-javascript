@@ -5,7 +5,7 @@ function isOldEnoughToDrink(age) {
     } else {
         Enough = false
     }
-    return Enough
+    return Enough 
     
 }
 
